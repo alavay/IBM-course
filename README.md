@@ -1,1 +1,1 @@
-# IBM-course
+# IBM-course repository walkthrough
